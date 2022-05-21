@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+    height: 95;
+}
+
+body {
+    height: 92%;
+}
+
+body {
+    @apply bg-[#eeeeee];
+}
